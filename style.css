@@ -1,0 +1,196 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    background-color:black;	
+
+}
+
+.main-container{
+    width:100%;
+}
+.flex-container{
+    width: 100%;
+    display:flex;
+    background-color:;
+    height: 100px;
+    margin-right: 10%;
+    font-weight: bold;
+}
+.menu-item1{
+    color:white;
+    font-size: 1em;
+    margin-left:25em;
+    margin-right:0em;
+    margin-top: 2em;
+   
+    
+   
+}
+.flex-container{
+    width: 100%;
+    display:flex;
+    background-color: rgb(207, 20, 20);
+    height: 100px;
+    margin-right: 10%;
+}
+.container{
+    font-weight: bold;
+    color:white;
+
+
+}
+.Education-Qualification
+{
+    font-weight: bold;
+}
+  
+
+.image-container{
+    margin-top:20em ;
+}
+.image-1{
+    margin-top:8%;
+    margin-left: 20%;
+    border-radius: 50%
+    
+}
+.banner-title{
+    color:white;
+    position: absolute;
+    top:40%;
+    left:48%;
+    font-size: 1.5em;
+    
+}
+
+.banner-subtitle{
+    color:white;
+    position:absolute;
+    top:44%;
+    left:48%;
+    font-size:3em;
+    font-weight: bold;
+    
+}
+.banner-subtitle1{
+    color:white;
+    position:absolute;
+    top:51%;
+    left:48%;
+    font-size:1.5em;
+
+    
+}
+.banner-image{
+    width:100%;
+  
+}
+.skill-heading{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    color: white;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.skill-title{
+    margin-left: 47%;
+    text-align: center;
+    margin-top: 50px;
+}
+.center{
+    margin-left: 8%;
+    margin-right: 8%;
+    font-weight: bold;
+  
+    /* background-color:hsla(90, 43%, 3%, 0.3); */
+    /* box-sizing: border-box;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.5); */
+
+}
+h2{
+    margin:0;
+    padding:0;
+    color: #fff;
+    text-transform:uppercase;
+    letter-spacing: 2px;
+
+}
+.skillBox{
+    box-sizing:border-box;
+    width: 100%;
+    margin: 20px 0;
+
+
+}
+.skillBox p{
+    color:white;
+    text-transform: uppercase; 
+    margin:0 0 10px;
+    padding:0;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.skillBox p:nth-child(2){
+    float:right;
+    position: relative;
+    top:-25px;
+}
+.skill{
+    background: #2626;
+    padding:2px;
+    box-sizing: border-box;
+    border:1px solid blueviolet;
+    border-radius: 2px;
+}
+.skill_level{
+    background:blueviolet;
+    width: 100%;
+    height: 10px;
+}
+.Contactme{
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: 1.5em;
+}
+.Contact-text{
+    
+    text-align: center;
+    position: relative;
+    font-weight: bold;
+    font-size:1.2em;
+    margin-left:25px;
+
+    margin-bottom: 1em
+}
+#a1{
+    padding-right: 10px;
+    justify-content: center;
+    margin-top:4em;
+    margin-left:38em;
+    display: inline;
+    
+
+}
+#a1{
+    padding-right: 10px;
+}
+#a2{
+    padding-right: 10px;
+}
+#a3{
+    padding-right: 10px;
+}
+#a4{
+    padding-right: 10px;
+}
+#a5{
+    padding-right: 10px;
+}
+#a6{
+    padding-right: 10px;
+}
